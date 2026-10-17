@@ -1,0 +1,6 @@
+{
+  "name": "Pharma Sapience - GPAT & NIPER Excellence Portal",
+  "description": "Comprehensive coaching management system for Pharma Sapience Coaching Institute featuring student enrollment, fee tracking, library records, and ranker analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
